@@ -1,7 +1,0 @@
-class Solve:
-    def findSum(self, s1, s2):
-        print(type(s1))
-        return s1 + s2
-s = Solve()
-s = s.findSum(5,5)
-print(s)
