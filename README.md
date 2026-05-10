@@ -15,7 +15,8 @@ A simple Student Management System built with Python.
 1. Clone this repository
 2. Run the file:
 
-## Author
-**Avneesh Yadav**  
+## Author Name
+@codebyavneesh
+
 Aspiring Data Scientist | Python • Pandas • NumPy • SQL  
 📍 Uttar Pradesh, India
